@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "github.com/benjahuenchunir/experiencia-mob-2",
+    "slug": "snack-f90bf059-5b45-4e0f-a9ad-246d3aefccfa",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "github.com/benjahuenchunir/Experiencia-MOB-2 @ Oct 22, 2024"
+  }
+}
